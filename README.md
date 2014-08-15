@@ -1,0 +1,1 @@
+Small helper program for previewing scale and crop on slideshow images on ColoradoSprings.gov.
